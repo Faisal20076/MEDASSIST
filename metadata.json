@@ -1,0 +1,6 @@
+{
+  "name": "MedAssist AI - Smart Medicine Companion",
+  "description": "Proposed AI-powered assistive medication-management system designed for visually impaired, elderly, and low-literacy users. Student engineering prototype in development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
